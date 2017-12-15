@@ -56,14 +56,28 @@ Nessus (www.nessus.org)
 # intrusion detection system created by Martin Roesch in 1998.
 Snort (www.snort.org)
 
+# Netcat is a featured networking utility which reads and writes data across
+# network connections, using the TCP/IP protocol.
 Netcat (netcat.sourceforge.net)
-NetScanTools (www.netscantools.com)
+
+# Penetration testing framework
 Metasploit Framework (www.metasploit.com)
+
+# hping is a command-line oriented TCP/IP packet assembler/analyzer.
 Hping2 (www.hping.org)
+
+# Kismet is a wireless network detector, sniffer, and intrusion detection system.
+# Kismet works predominately with Wi-Fi (IEEE 802.11) networks
 Kismet (www.kismetwireless.net)
+
+# powerful command-line packet analyzer
 Tcpdump (www.tcpdump.org)
-Cain and Abel (www.oxid.it)
-John the Ripper (www.openwall.com/john)
-Ettercap (ettercap.sourceforge.net)
+
+# Ettercap is a comprehensive suite for man in the middle attacks.
+# It features sniffing of live connections, content filtering.
+Ettercap (http://ettercap.github.io/ettercap/)
+
+# Nikto is an Open Source (GPL) web server scanner which performs
+# comprehensive tests against web servers
 Nikto (www.cirt.net/nikto2)
 ```
